@@ -131,6 +131,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ## ✨ Credits  
-Developed by **Željko Ikanović** 🚀  
-GitHub: https://github.com/Zeljko12980
-Email: ikanoviczeljko095@gmail.com
+- Developed by **Željko Ikanović** 🚀  
+- GitHub: https://github.com/Zeljko12980
+- Email: ikanoviczeljko095@gmail.com
