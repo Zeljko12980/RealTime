@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "50cziJJzU+4=",
+  "dgSpecHash": "evklUaAWQdw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ikano\\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\\Documents\\Desktop\\RealTime\\api\\api.csproj",
+  "projectFilePath": "C:\\Users\\ikano\\source\\repos\\Zeljko12980\\RealTime\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ikano\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\ikano\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.3.0\\microsoft.aspnetcore.authorization.2.3.0.nupkg.sha512",
